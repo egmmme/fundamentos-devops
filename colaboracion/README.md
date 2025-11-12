@@ -2,7 +2,7 @@
 ¿Qué es?
 Eliminación de silos entre equipos de desarrollo, operaciones, seguridad y negocio para trabajar hacia objetivos comunes.
 
-## Mi experiencia em ejemplos
+## Mi experiencia en ejemplos
 
 ### 1. Reuniones
 ```bash
