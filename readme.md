@@ -1,4 +1,4 @@
-# DevOps: Fundamentos y Ciclo de Vida
+# DevOps: Fundamentos
 
 ## 🎯 Introducción
 
