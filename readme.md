@@ -3,17 +3,17 @@ DevOps es una **cultura y metodología** que une desarrollo y operaciones para e
 
 > ⚠️ **Nota clave**: Sin cultura DevOps, las herramientas y procesos no generan el impacto esperado.
 
-### [🤝 Colaboración](./fundamentos-devops/colaboracion/README.md)
+### [🤝 Colaboración](./colaboracion/README.md)
 
-### [⚙️ Automatización](./fundamentos-devops/automatizacion/README.md)
+### [⚙️ Automatización](./automatizacion/README.md)
 
-### [📦 Entrega Continua](./fundamentos-devops/entrega-continua/README.md)
+### [📦 Entrega Continua](./entrega-continua/README.md)
 
-### [🔄 Feedback Rápido](./fundamentos-devops/feedback-rapido/README.md)
+### [🔄 Feedback Rápido](./feedback-rapido/README.md)
 
-### [👥 Responsabilidad Compartida](./fundamentos-devops/responsabilidad-compartida/README.md)
+### [👥 Responsabilidad Compartida](./responsabilidad-compartida/README.md)
 
-### [🔒 Seguridad Integrada](./fundamentos-devops/seguridad-integrada/README.md)
+### [🔒 Seguridad Integrada](./seguridad-integrada/README.md)
 
-### [📊 Observabilidad](./fundamentos-devops/observabilidad/README.md)
+### [📊 Observabilidad](./observabilidad/README.md)
 
