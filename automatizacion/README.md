@@ -1,7 +1,7 @@
 # ⚙️ Automatización
 Automatizar procesos repetitivos para aumentar eficiencia y reducir errores humanos.
 
-## Mi experiencia en ejemplos
+## Mi experiencia
 
 ### 1. **Pipeline CI/CD**
 ```yaml
