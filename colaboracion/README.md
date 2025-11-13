@@ -1,6 +1,4 @@
 # 🤝 Colaboración
-
-## ¿Qué es?
 Eliminación de silos entre equipos de desarrollo, operaciones, seguridad y negocio para trabajar hacia objetivos comunes.
 
 ## Mi experiencia en ejemplos
