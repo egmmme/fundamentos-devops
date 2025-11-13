@@ -8,7 +8,7 @@ La base cultural que sustenta todas las prácticas DevOps:
 | **Aprendizaje** | Continuo |
 | **Tolerancia al fallo** | Como oportunidad de mejora |
 
-## Mi experiencia en ejemplos
+## Mi experiencia
 
 ### 1. **Blameless**
 ```markdown
