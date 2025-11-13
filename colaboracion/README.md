@@ -1,7 +1,7 @@
 # 🤝 Colaboración
 Eliminación de silos entre equipos de desarrollo, operaciones, seguridad y negocio para trabajar hacia objetivos comunes.
 
-## Mi experiencia en ejemplos
+## Mi experiencia
 
 ### 1. **Reuniones**
 ```bash
