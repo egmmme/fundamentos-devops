@@ -1,6 +1,4 @@
 # ⚙️ Automatización
-
-## ¿Qué es?
 Automatizar procesos repetitivos para aumentar eficiencia y reducir errores humanos.
 
 ## Mi experiencia en ejemplos
