@@ -1,7 +1,7 @@
 # 📦 Entrega Continua
 Mantener el software siempre en estado listo para ser desplegado mediante CI/CD y pruebas automatizadas.
 
-## Mi experiencia en ejemplos
+## Mi experiencia
 
 ### 1. **Pipeline Multi-etapa**
 ```yaml
