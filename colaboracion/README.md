@@ -5,7 +5,7 @@ Eliminación de silos entre equipos de desarrollo, operaciones, seguridad y nego
 
 ## Mi experiencia en ejemplos
 
-### 1. **Reuniones Cruzadas**
+### 1. **Reuniones**
 ```bash
 # Reuniones diarias con dev + ops
 /daily-standup-team-channel
@@ -15,7 +15,7 @@ Eliminación de silos entre equipos de desarrollo, operaciones, seguridad y nego
 - Desarrollador + Ingeniero de Ops trabajando juntos
 - Sesiones de 2 horas semanales
 
-### 3. **Canales de Comunicación Compartidos**
+### 3. **Canales de Comunicación**
 ```yaml
 # Slack channels:
 - #devops-team
